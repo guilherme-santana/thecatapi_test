@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3776" started-at="2020-03-10T18:32:35 BRT" finished-at="2020-03-10T18:32:38 BRT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3776" started-at="2020-03-10T18:32:35 BRT" finished-at="2020-03-10T18:32:38 BRT">
+      <class name="runTests.FavouritesTest">
+        <test-method status="PASS" signature="teste01postSucesso()[pri:0, instance:runTests.FavouritesTest@5bc79255]" name="teste01postSucesso" duration-ms="2022" started-at="2020-03-10T18:32:35 BRT" finished-at="2020-03-10T18:32:37 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teste01postSucesso -->
+        <test-method status="PASS" signature="teste02getSucesso()[pri:0, instance:runTests.FavouritesTest@5bc79255]" name="teste02getSucesso" duration-ms="472" started-at="2020-03-10T18:32:37 BRT" finished-at="2020-03-10T18:32:37 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teste02getSucesso -->
+        <test-method status="PASS" signature="teste03getAutenticacaoInvalida()[pri:0, instance:runTests.FavouritesTest@5bc79255]" name="teste03getAutenticacaoInvalida" duration-ms="242" started-at="2020-03-10T18:32:37 BRT" finished-at="2020-03-10T18:32:37 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teste03getAutenticacaoInvalida -->
+        <test-method status="PASS" signature="teste04postCampoRequerido()[pri:0, instance:runTests.FavouritesTest@5bc79255]" name="teste04postCampoRequerido" duration-ms="241" started-at="2020-03-10T18:32:37 BRT" finished-at="2020-03-10T18:32:38 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teste04postCampoRequerido -->
+        <test-method status="PASS" signature="teste05deleteSucesso()[pri:0, instance:runTests.FavouritesTest@5bc79255]" name="teste05deleteSucesso" duration-ms="267" started-at="2020-03-10T18:32:38 BRT" finished-at="2020-03-10T18:32:38 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teste05deleteSucesso -->
+        <test-method status="PASS" signature="teste06deleteSemID()[pri:0, instance:runTests.FavouritesTest@5bc79255]" name="teste06deleteSemID" duration-ms="238" started-at="2020-03-10T18:32:38 BRT" finished-at="2020-03-10T18:32:38 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teste06deleteSemID -->
+        <test-method status="PASS" signature="teste07postSemBody()[pri:0, instance:runTests.FavouritesTest@5bc79255]" name="teste07postSemBody" duration-ms="248" started-at="2020-03-10T18:32:38 BRT" finished-at="2020-03-10T18:32:38 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teste07postSemBody -->
+      </class> <!-- runTests.FavouritesTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
